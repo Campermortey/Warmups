@@ -1,0 +1,2 @@
+c:\users\david\documents\visual studio 2015\Projects\Warmups\Warmups\bin\Debug\Warmups.exe.config
+E:\Development\Warmups\Warmups\bin\Debug\Warmups.exe.config
