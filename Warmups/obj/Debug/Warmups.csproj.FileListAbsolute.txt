@@ -1,2 +1,7 @@
 c:\users\david\documents\visual studio 2015\Projects\Warmups\Warmups\bin\Debug\Warmups.exe.config
 E:\Development\Warmups\Warmups\bin\Debug\Warmups.exe.config
+E:\Development\Warmups\Warmups\bin\Debug\Warmups.exe
+E:\Development\Warmups\Warmups\bin\Debug\Warmups.pdb
+E:\Development\Warmups\Warmups\obj\Debug\Warmups.csprojResolveAssemblyReference.cache
+E:\Development\Warmups\Warmups\obj\Debug\Warmups.exe
+E:\Development\Warmups\Warmups\obj\Debug\Warmups.pdb

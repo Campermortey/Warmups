@@ -1,0 +1,7 @@
+E:\Development\Warmups\Warmups.Tests\obj\Debug\Warmups.Tests.csprojResolveAssemblyReference.cache
+E:\Development\Warmups\Warmups.Tests\bin\Debug\Warmups.Tests.dll
+E:\Development\Warmups\Warmups.Tests\bin\Debug\Warmups.Tests.pdb
+E:\Development\Warmups\Warmups.Tests\bin\Debug\Warmups.exe
+E:\Development\Warmups\Warmups.Tests\bin\Debug\Warmups.pdb
+E:\Development\Warmups\Warmups.Tests\obj\Debug\Warmups.Tests.dll
+E:\Development\Warmups\Warmups.Tests\obj\Debug\Warmups.Tests.pdb

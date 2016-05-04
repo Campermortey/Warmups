@@ -43,7 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Conditionals\Diff21.cs" />
     <Compile Include="Conditionals\MischieviousChildren.cs" />
+    <Compile Include="Conditionals\ParrotTrouble.cs" />
+    <Compile Include="Conditionals\SleepingIn.cs" />
+    <Compile Include="Conditionals\DoubleSum.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
